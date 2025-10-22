@@ -90,24 +90,6 @@ The analyzer automatically extracts and categorizes:
 
 The entire process takes 3-5 minutes for a typical annual report.
 
-## 💡 Perfect For
-
-- **Financial Analysts**: Quickly extract data for financial modeling and analysis
-- **Accountants**: Verify financial statements and prepare comparative analysis
-- **Auditors**: Cross-check reported figures and identify inconsistencies
-- **Investors**: Research Indonesian companies efficiently
-- **Researchers**: Gather financial data for academic studies
-- **Corporate Finance Teams**: Analyze competitors and industry benchmarks
-
-## 🎓 Academic Quality
-
-This tool was developed with academic rigor:
-- Multi-level verification (AI + Rule-based + Mathematical validation)
-- Transparency through confidence scoring
-- Detailed validation reports explaining any issues
-- Structured output suitable for research and regulatory compliance
-- Complete audit trail with page numbers and source context
-
 ## 🌟 Key Strengths Summary
 
 ✅ **AI-Powered Intelligence**: Uses GPT-4o-mini for context-aware extraction  
