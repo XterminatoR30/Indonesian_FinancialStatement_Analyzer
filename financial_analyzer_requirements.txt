@@ -1,0 +1,17 @@
+pandas
+numpy
+openpyxl
+pdfplumber
+PyMuPDF
+requests
+nltk
+gradio
+python-dateutil
+tqdm
+spacy
+transformers
+torch
+pytest
+black
+flake8
+openai
